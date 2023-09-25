@@ -20,5 +20,5 @@ It creates two KeyBinds that can be configured at keybinds.cfg. One will write r
 - Edit keybinds.cfg as you wish
 - Run the script ()
     ```sh
-    python main.py
+    python ./app
     ```
