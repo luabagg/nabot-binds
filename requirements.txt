@@ -3,7 +3,6 @@ configobj==5.0.8
 Cython==3.0.2
 evdev==1.6.1
 keyboard==0.13.5
-Nabot-Random==0.0.1
 packaging==23.1
 pynput==1.7.6
 pyproject_hooks==1.0.0

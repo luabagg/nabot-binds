@@ -17,6 +17,10 @@ It creates two KeyBinds that can be configured at keybinds.cfg. One will write r
     python -m venv venv
     source venv/bin/activate
     ```
+- Install dependencies
+    ```sh
+    pip install -r requirements.txt 
+    ```
 - Edit keybinds.cfg as you wish
 - Run the script ()
     ```sh
